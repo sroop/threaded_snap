@@ -36,6 +36,6 @@ telnet localhost 3939
 Keywords
 ----
 
-```shuffle``` Starts a new game and deals out a newly shuffled deck of cards between the two players
-```draw``` Draws a card from the player's hand
+```shuffle``` Starts a new game and deals out a newly shuffled deck of cards between the two players <br>
+```draw``` Draws a card from the player's hand <br>
 ```snap!``` First player to shout this wins all drawn cards and adds it to their hand
